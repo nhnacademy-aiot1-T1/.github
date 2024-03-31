@@ -1,5 +1,5 @@
 # T1
-## 팀원
+## 👥 팀원
 <table>
   <tbody>
     <tr>
@@ -14,10 +14,18 @@
   </tbody>
 </table>
 
-## 아키텍처
+## 🏛 아키텍처
+### Server 
 <img width="2098" alt="Architecure2" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/e30f9d43-9f63-4b26-8b50-3faf8c0b6d85">
 
-## 기술 스택
+
+
+### Sequence Diagram
+- Login
+<img width="3568" alt="seq_login" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/4947c5f3-da34-41a6-9104-3964f163099d">
+
+
+## ⚙ 기술 스택
 ### Language
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
