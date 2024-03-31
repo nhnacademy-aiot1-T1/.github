@@ -15,7 +15,7 @@
 </table>
 
 ## 아키텍처
-<img width="3426" alt="Architecure" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/eeb3bc26-0bf3-4c78-8be8-58b9a7e7bb94">
+<img width="2098" alt="Architecure2" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/e30f9d43-9f63-4b26-8b50-3faf8c0b6d85">
 
 ## 기술 스택
 ### Language
