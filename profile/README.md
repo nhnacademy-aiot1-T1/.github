@@ -22,7 +22,7 @@
 
 ### Sequence Diagram
 - Login
-<img width="3568" alt="seq_login" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/4947c5f3-da34-41a6-9104-3964f163099d">
+![login sequence](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/e444e511-86d8-44e5-a247-2e20a9222a42)
 
 
 ## ⚙ 기술 스택
