@@ -3,8 +3,8 @@
   <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/d1cc3f1a-6972-4bc4-adee-3af66c23817c" alt="text" />
 </p>
 
-## 👥 팀원
-<table>
+
+<table align="center">
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/AoiTuNa"><img src="https://avatars.githubusercontent.com/u/118845947?v=4"width="100px;" alt=""/><br /><sub><b>홍충표</b></sub></a><br /></td>
@@ -17,6 +17,8 @@
     </tr>
   </tbody>
 </table>
+
+
   
 <br />
 
