@@ -1,4 +1,8 @@
-# T1
+# AIOTONE 🏠
+<p align="center">
+  <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/d1cc3f1a-6972-4bc4-adee-3af66c23817c" alt="text" />
+</p>
+
 ## 👥 팀원
 <table>
   <tbody>
@@ -13,16 +17,27 @@
     </tr>
   </tbody>
 </table>
+  
+<br />
 
-## 🏛 아키텍처
-### Server 
-<img width="2098" alt="Architecure2" src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/e30f9d43-9f63-4b26-8b50-3faf8c0b6d85">
+  
 
+## 🪧 프로젝트 소개
+### 🖥️ 스마트홈 기기 모니터링 및 관리 시스템
+> 스마트홈을 사용중인 공간에서 전체적으로 기기들을 모니터링하고 관리할 수 있는 웹서버를 제공하는 것을 목적으로 합니다
+- 주요기능
+  - 기기별 센서 데이터 모니터링
+  - 환경에 기반한 조명 제어
+  - AI기반 적정 온습도 추천
+  - 비정상적인 상황에 대한 알림 기능
+  - 데이터 요약 및 리뷰
 
+➡️ [자세한 요구사항 명세 및 로드맵](https://github.com/nhnacademy-aiot1-T1/document/blob/main/%EA%B0%9C%EB%B0%9C%EA%B3%84%ED%9A%8D%EC%84%9C.md)
+  
+<br />
 
-### Sequence Diagram
-- Login
-![login sequence](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/e444e511-86d8-44e5-a247-2e20a9222a42)
+## 🏛 아키텍처 
+![free (1)](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/80ccdd43-307b-4460-a45c-b537d67d052f)
 
 
 ## ⚙ 기술 스택
