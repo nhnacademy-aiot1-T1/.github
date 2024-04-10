@@ -1,8 +1,9 @@
 # AIOTONE 🏠
 <p align="center">
-  <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/d1cc3f1a-6972-4bc4-adee-3af66c23817c" alt="text" />
+  <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/6a813cad-bc99-487f-83db-f795dd21b49b" alt="text" />
 </p>
-
+<br />
+<br />
 
 <table align="center">
   <tbody>
