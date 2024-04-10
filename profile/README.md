@@ -27,13 +27,13 @@
 
 ## 🪧 프로젝트 소개
 ### 🖥️ 스마트홈 기기 모니터링 및 관리 시스템
-> 스마트홈을 사용중인 공간에서 전체적으로 기기들을 모니터링하고 관리할 수 있는 웹서버를 제공하는 것을 목적으로 합니다
+> 스마트홈을 사용중인 공간에서 전체적으로 기기들을 모니터링하고 기기를 제어할 수 있는 웹서버를 제공하는 것을 목표로 합니다 
 - 주요기능
-  - 기기별 센서 데이터 모니터링
-  - 환경에 기반한 조명 제어
-  - AI기반 적정 온습도 추천
-  - 비정상적인 상황에 대한 알림 기능
-  - 데이터 요약 및 리뷰
+  - 센서 별 데이터 모니터링 기능
+  - 공간 별 데이터 모니터링 기능
+  - 자동 모드를 통한 기기 제어
+  - 수동 모드를 통한 기기 제어
+  - 기간별 데이터 차트 제공 및 분석
 
 ➡️ [요구사항 명세](https://docs.google.com/spreadsheets/d/1CzpFsTNczJRvpjYeh9xfXlBBppYBSPM10EeXjIyXAzw/edit#gid=0)<br />
 ➡️ [요구사항 페이지 목록](https://docs.google.com/spreadsheets/d/19jqqDE9Yb4SLfPyVuQZ4r8ctLgOas44dhavJhodiMKk/edit#gid=0)<br />
