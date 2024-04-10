@@ -35,12 +35,15 @@
   - 비정상적인 상황에 대한 알림 기능
   - 데이터 요약 및 리뷰
 
-➡️ [자세한 요구사항 명세 및 로드맵](https://github.com/nhnacademy-aiot1-T1/document/blob/main/%EA%B0%9C%EB%B0%9C%EA%B3%84%ED%9A%8D%EC%84%9C.md)
+➡️ [요구사항 명세](https://docs.google.com/spreadsheets/d/1CzpFsTNczJRvpjYeh9xfXlBBppYBSPM10EeXjIyXAzw/edit#gid=0)<br />
+➡️ [요구사항 페이지 목록](https://docs.google.com/spreadsheets/d/19jqqDE9Yb4SLfPyVuQZ4r8ctLgOas44dhavJhodiMKk/edit#gid=0)<br />
+➡️ [요구사항 시나리오](https://docs.google.com/spreadsheets/d/1Pf7hNWLO913jZicM3M4qvbWAQPPlLJwt1OCIsCJzsAw/edit#gid=0)<br />
+➡️ [로드맵](https://github.com/orgs/nhnacademy-aiot1-T1/projects/1/views/11)<br />
   
 <br />
 
 ## 🏛 아키텍처 
-![free (1)](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/80ccdd43-307b-4460-a45c-b537d67d052f)
+![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/bf3c3d5d-3368-4853-b5b4-11516833f29f)
 
 
 ## ⚙ 기술 스택
