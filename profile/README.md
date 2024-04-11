@@ -1,9 +1,7 @@
 # AIOTONE 🏠
 <p align="center">
-  <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/6a813cad-bc99-487f-83db-f795dd21b49b" alt="text" />
+  <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/30b941a0-ace2-4eba-bc15-66f76bca5b93" height="500" alt="text" />
 </p>
-<br />
-<br />
 
 <table align="center">
   <tbody>
@@ -22,8 +20,8 @@
 
   
 <br />
-
-  
+<br />
+<br />  
 
 ## 🪧 프로젝트 소개
 ### 🖥️ 스마트 팩토리 모터관리
