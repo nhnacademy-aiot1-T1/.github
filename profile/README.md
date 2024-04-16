@@ -34,7 +34,7 @@
 ➡️ [요구사항 명세](https://docs.google.com/spreadsheets/d/1CzpFsTNczJRvpjYeh9xfXlBBppYBSPM10EeXjIyXAzw/edit#gid=0)<br />
 ➡️ [요구사항 페이지 목록](https://docs.google.com/spreadsheets/d/19jqqDE9Yb4SLfPyVuQZ4r8ctLgOas44dhavJhodiMKk/edit#gid=0)<br />
 ➡️ [요구사항 시나리오](https://docs.google.com/spreadsheets/d/1F5o-hR033iyMkIzBvRk__4XYiJ-KJto6yM2x7Oatey0/edit#gid=0)<br />
-➡️ [로드맵](https://github.com/orgs/nhnacademy-aiot1-T1/projects/1/views/11)<br />
+➡️ [로드맵(WBS)](https://docs.google.com/spreadsheets/d/1xtpRn9wUJA4LiWlgvDDX7L0haHqjZAOUC3xZD4Zgh8Y/edit#gid=0)<br />
   
 <br />
 
