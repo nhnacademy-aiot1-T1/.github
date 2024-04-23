@@ -39,7 +39,8 @@
 <br />
 
 ## 🏛 아키텍처 
-![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/bf3c3d5d-3368-4853-b5b4-11516833f29f)
+![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/efb6ce35-fa9a-44a1-94ec-feb8f91fd314)
+
 
 
 ## ⚙ 기술 스택
