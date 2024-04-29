@@ -8,7 +8,6 @@
     <tr>
       <td align="center"><a href="https://github.com/AoiTuNa"><img src="https://avatars.githubusercontent.com/u/118845947?v=4"width="100px;" alt=""/><br /><sub><b>홍충표</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/jki12"><img src="https://avatars.githubusercontent.com/u/129145278?v=4" width="100px;" alt=""/><br /><sub><b>조강일</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/tothemoon9954"><img src="https://avatars.githubusercontent.com/u/112798270?v=4" width="100px;" alt=""/><br /><sub><b>전민석</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/chanhwiim"><img src="https://avatars.githubusercontent.com/u/101960840?v=4" width="100px;" alt=""/><br /><sub><b>임찬휘</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/ckddms6530"><img src="https://avatars.githubusercontent.com/u/121488797?v=4" width="100px;" alt=""/><br /><sub><b>유창은</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/pangpangE123"><img src="https://avatars.githubusercontent.com/u/134940639?v=4" width="100px;" alt=""/><br /><sub><b>변상우</b></sub></a><br /></td>
