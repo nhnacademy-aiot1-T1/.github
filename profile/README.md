@@ -50,6 +50,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34F26?style=flat&logo=Java&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Framework
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -66,12 +68,12 @@
 ### Database
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 ### Build Tool
 ![ApacheMaven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)
 
 ### CI/CD
-![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Github Action](https://img.shields.io/badge/Github%20Action-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![NHN Cloud](https://img.shields.io/badge/-NHN%20Cloud-blue?style=flat&logo=iCloud&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E98CD?style=flat&logo=SonarQube&logoColor=white)
