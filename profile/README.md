@@ -38,7 +38,8 @@
 <br />
 
 ## 🏛 아키텍처 
-![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/efb6ce35-fa9a-44a1-94ec-feb8f91fd314)
+![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/3ba0b949-7f42-4e2d-9633-3885aeb81cf7)
+
 
 
 
