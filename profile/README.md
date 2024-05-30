@@ -1,4 +1,4 @@
-# AIOTONE 🏠
+# 🏭 AIOTONE - 머신러닝을 활용한 모터 이상감지 시스템
 <p align="center">
   <img src="https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/30b941a0-ace2-4eba-bc15-66f76bca5b93" height="500" alt="text" />
 </p>
@@ -16,31 +16,23 @@
   </tbody>
 </table>
 
-
-  
 <br />
 <br />
 <br />  
 
 ## 🪧 프로젝트 소개
-### 🖥️ 스마트 팩토리 모터관리
-> 공장에서 돌아가는 모터와 관련된 센서 데이터를 모니터링할 수 있는 웹페이지와 모터에서 수집한 센서데이터를 바탕으로 AI를 활용하여 모터 상태를 진단하고 위험 예측을 제공하는 서비스입니다
-- 주요기능
-  - 전체 공간에 대한 모터 상태 모니터링 기능
-  - 모터 별 데이터 현황 모니터링 기능
-  - AI를 활용한 모터 상태 관리
+> 모터와 관련된 센서 데이터를 모니터링할 수 있는 웹 서비스와, <br/>
+> 센서 데이터를 바탕으로 AI를 활용하여 모터 상태를 진단하고 이상이 발생했을 때 알림을 받을 수 있는 시스템입니다
 
-➡️ [요구사항 명세](https://docs.google.com/spreadsheets/d/1CzpFsTNczJRvpjYeh9xfXlBBppYBSPM10EeXjIyXAzw/edit#gid=0)<br />
-➡️ [요구사항 페이지 목록](https://docs.google.com/spreadsheets/d/19jqqDE9Yb4SLfPyVuQZ4r8ctLgOas44dhavJhodiMKk/edit#gid=0)<br />
-➡️ [요구사항 시나리오](https://docs.google.com/spreadsheets/d/1F5o-hR033iyMkIzBvRk__4XYiJ-KJto6yM2x7Oatey0/edit#gid=0)<br />
-➡️ [로드맵(WBS)](https://docs.google.com/spreadsheets/d/1xtpRn9wUJA4LiWlgvDDX7L0haHqjZAOUC3xZD4Zgh8Y/edit#gid=0)<br />
+### 주요기능 <br />
+  ➡️ 전체 공간에 대한 모터 상태 모니터링 기능 <br />
+  ➡️ 모터 별 데이터 현황 모니터링 기능 <br />
+  ➡️ AI를 활용한 모터 상태 관리 <br />
   
 <br />
 
 ## 🏛 아키텍처 
-![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/3ba0b949-7f42-4e2d-9633-3885aeb81cf7)
-
-
+![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/f148d54a-2a2f-4394-a2c4-dcb48565aaab)
 
 
 ## ⚙ 기술 스택
