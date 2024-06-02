@@ -32,7 +32,13 @@
 <br />
 
 ## 🏛 아키텍처 
+### 시스템 구조
 ![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/f148d54a-2a2f-4394-a2c4-dcb48565aaab)
+<br/>
+<br/>
+
+### CI/CD
+![2024-06-02 21_52_45 841](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/3ad3c088-f583-42e4-b426-8b62fabd8e4f)
 
 
 ## ⚙ 기술 스택
