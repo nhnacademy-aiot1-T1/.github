@@ -28,7 +28,21 @@
   ➡️ 전체 공간에 대한 모터 상태 모니터링 기능 <br />
   ➡️ 모터 별 데이터 현황 모니터링 기능 <br />
   ➡️ AI를 활용한 모터 상태 관리 <br />
-  
+
+### Repository Tree
+AIOTONE<br>
+├── Web<br>
+│   ├── [front-server](https://github.com/nhnacademy-aiot1-T1/front-server) : Front API 서버<br>
+│   ├── [gateway-server](https://github.com/nhnacademy-aiot1-T1/gateway-server) : 요청 인증/인가 및 API 라우팅 서버<br>
+│   ├── [service-discovery](https://github.com/nhnacademy-aiot1-T1/service-discovery) : Eureka 서버<br>
+│   ├── [auth-server](https://github.com/nhnacademy-aiot1-T1/auth-server) : 인증 API 서버<br>
+│   ├── [account-api](https://github.com/nhnacademy-aiot1-T1/account-api) : 계정 API 서버<br>
+│   └── [monitoring](https://github.com/nhnacademy-aiot1-T1/monitoring) : 모니터링 API 서버<br>
+└── RuleEngine<br>
+    ├── [preprocessing](https://github.com/nhnacademy-aiot1-T1/preprocessing) : 전처리 서버<br>
+    ├── [machine-learning-server](https://github.com/nhnacademy-aiot1-T1/machine-learning-server) : 머신러닝 서버<br>
+    └── [notification](https://github.com/nhnacademy-aiot1-T1/notification) : 알림/이메일 전송 서버<br>
+<br />
 <br />
 
 ## 🏛 아키텍처 
@@ -79,3 +93,5 @@
 ![intellijidea](https://img.shields.io/badge/intellij-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+##
+- 개발기간 : 2024.03.25 ~ 2024.06.05
