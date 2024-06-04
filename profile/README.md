@@ -33,12 +33,14 @@
 
 ## 🏛 아키텍처 
 ### 시스템 구조
-![free](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/f148d54a-2a2f-4394-a2c4-dcb48565aaab)
+![2024-06-04 23_35_08 144](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/400d5f9f-76b9-484f-84ef-01fd4e310399)
+
 <br/>
 <br/>
 
 ### CI/CD
-![2024-06-02 21_52_45 841](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/3ad3c088-f583-42e4-b426-8b62fabd8e4f)
+![2024-06-04 23_38_59 099](https://github.com/nhnacademy-aiot1-T1/.github/assets/80664194/73b26716-64f8-449b-ad93-08b3dd620f44)
+
 
 
 ## ⚙ 기술 스택
