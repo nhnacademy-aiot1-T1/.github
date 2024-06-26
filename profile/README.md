@@ -32,17 +32,17 @@
 ### Repository Tree
 AIOTONE<br>
 ├── Web<br>
-│   ├── [front-server](https://github.com/nhnacademy-aiot1-T1/front-server) : Front API 서버<br>
-│   ├── [gateway-server](https://github.com/nhnacademy-aiot1-T1/gateway-server) : 요청 인증/인가 및 API 라우팅 서버<br>
-│   ├── [service-discovery](https://github.com/nhnacademy-aiot1-T1/service-discovery) : Eureka 서버<br>
-│   ├── [auth-server](https://github.com/nhnacademy-aiot1-T1/auth-server) : 인증 API 서버<br>
-│   ├── [account-api](https://github.com/nhnacademy-aiot1-T1/account-api) : 계정 API 서버<br>
-│   └── [monitoring](https://github.com/nhnacademy-aiot1-T1/monitoring) : 모니터링 API 서버<br>
+│         ├── [front-server](https://github.com/nhnacademy-aiot1-T1/front-server) : Front API 서버<br>
+│         ├── [gateway-server](https://github.com/nhnacademy-aiot1-T1/gateway-server) : 요청 인증/인가 및 API 라우팅 서버<br>
+│         ├── [service-discovery](https://github.com/nhnacademy-aiot1-T1/service-discovery) : Eureka 서버<br>
+│         ├── [auth-server](https://github.com/nhnacademy-aiot1-T1/auth-server) : 인증 API 서버<br>
+│         ├── [account-api](https://github.com/nhnacademy-aiot1-T1/account-api) : 계정 API 서버<br>
+│         └── [monitoring](https://github.com/nhnacademy-aiot1-T1/monitoring) : 모니터링 API 서버<br>
 └── RuleEngine<br>
-    ├── [preprocessing](https://github.com/nhnacademy-aiot1-T1/preprocessing) : 전처리 서버<br>
-    ├── [machine-learning-server](https://github.com/nhnacademy-aiot1-T1/machine-learning-server) : 머신러닝 서버<br>
-    ├── [simple-telegraf](https://github.com/nhnacademy-aiot1-T1/simple-telegraf) : 데이터 수집(telegraf 역할)<br>
-    └── [notification](https://github.com/nhnacademy-aiot1-T1/notification) : 알림/이메일 전송 서버<br>
+             ├── [preprocessing](https://github.com/nhnacademy-aiot1-T1/preprocessing) : 전처리 서버<br>
+             ├── [machine-learning-server](https://github.com/nhnacademy-aiot1-T1/machine-learning-server) : 머신러닝 서버<br>
+             ├── [simple-telegraf](https://github.com/nhnacademy-aiot1-T1/simple-telegraf) : 데이터 수집(telegraf 역할)<br>
+             └── [notification](https://github.com/nhnacademy-aiot1-T1/notification) : 알림/이메일 전송 서버<br>
 <br />
 <br />
 
