@@ -41,7 +41,7 @@ AIOTONE<br>
 └── RuleEngine<br>
     ├── [preprocessing](https://github.com/nhnacademy-aiot1-T1/preprocessing) : 전처리 서버<br>
     ├── [machine-learning-server](https://github.com/nhnacademy-aiot1-T1/machine-learning-server) : 머신러닝 서버<br>
-    |---[simple-telegraf](https://github.com/nhnacademy-aiot1-T1/simple-telegraf) : 데이터 수집(telegraf 역할)<br>
+    ├── [simple-telegraf](https://github.com/nhnacademy-aiot1-T1/simple-telegraf) : 데이터 수집(telegraf 역할)<br>
     └── [notification](https://github.com/nhnacademy-aiot1-T1/notification) : 알림/이메일 전송 서버<br>
 <br />
 <br />
