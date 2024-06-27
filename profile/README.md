@@ -42,6 +42,7 @@ AIOTONE<br>
              ├── [preprocessing](https://github.com/nhnacademy-aiot1-T1/preprocessing) : 전처리 서버<br>
              ├── [machine-learning-server](https://github.com/nhnacademy-aiot1-T1/machine-learning-server) : 머신러닝 서버<br>
              ├── [simple-telegraf](https://github.com/nhnacademy-aiot1-T1/simple-telegraf) : 데이터 수집(telegraf 역할)<br>
+             ├── [adc-gateway](https://github.com/nhnacademy-aiot1-T1/adc_gateway) : 모터 데이터 수집 
              └── [notification](https://github.com/nhnacademy-aiot1-T1/notification) : 알림/이메일 전송 서버<br>
 <br />
 <br />
